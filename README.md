@@ -13,6 +13,7 @@
 * Ex 1 - Develop FC network, ReLu, SoftMax
 * Ex 2 - CNN, Max-pooling, initializer
 * Ex 3 - RecurrentNN, Droupout, LSTM, BatchNormalization
+* Ex 4 - PyTorch
 
 ### Dependencies
 
